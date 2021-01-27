@@ -1,0 +1,13 @@
+ {
+    "criteria": {
+        "unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "command:knowledgebook"
+            }
+        }
+    },
+    "rewards": {
+        "function": "command:give_effects"
+    }
+}
