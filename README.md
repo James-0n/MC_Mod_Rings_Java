@@ -1,6 +1,6 @@
 Configuration Instructions:
 
-Download ringsx1.0.0.jar (the mod) and move/copy to the mods folder of Minecraft */.minecraft/mods*. This defines the rings' crafting recipes, textures, and item qualities, but it does not give them powers. For powers, download RingEffects and move it to the datapack folder of your worldsave */.minecraft/saves/Your World Name Here/datapacks*.
+Download rings-x-1.0.0.jar (the mod) and move/copy to the mods folder of Minecraft */.minecraft/mods*. This defines the rings' crafting recipes, textures, and item qualities, but it does not give them powers. For powers, download RingEffects and move it to the datapack folder of your worldsave */.minecraft/saves/Your World Name Here/datapacks*.
 
 Crafting Instructions:
 
