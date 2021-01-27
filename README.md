@@ -1,6 +1,3 @@
-# MC_Mod_Rings_Java
-My own Minecraft mod compatible with Fabric API 1.16 and above. Adds six wearable rings to the base game, each with its own custom texture and crafting recipe. They confer unique special abilities when equipped. 
-
 Configuration Instructions:
 
 Download .jar file *this is the mod* and move/copy to the mods folder of Minecraft (/.minecraft/mods). The mod defines the rings' crafting recipes, textures, and item qualities, but it does not give them powers. For this, download RingEffects and move it to the datapack folder of your worldsave (/.minecraft/mods/New World/datapacks).
