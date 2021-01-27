@@ -1,11 +1,10 @@
 Configuration Instructions:
 
-Download .jar file *this is the mod* and move/copy to the mods folder of Minecraft (/.minecraft/mods). The mod defines the rings' crafting recipes, textures, and item qualities, but it does not give them powers. For this, download RingEffects and move it to the datapack folder of your worldsave (/.minecraft/mods/New World/datapacks).
+Download .jar file (this is the mod) and move/copy to the mods folder of Minecraft */.minecraft/mods*. The mod defines the rings' crafting recipes, textures, and item qualities, but it does not give them powers. For this, download RingEffects and move it to the datapack folder of your worldsave */.minecraft/saves/Your World Name Here/datapacks*.
 
 Crafting Instructions:
 
-All crafting recipes are composed of seven gold ingots and a material block *see Index folder*. Once you craft a ring, you must also craft a knowledge book to learn its
-unique power *recipe also in Index*. If you craft a knowledge book while a ring is equipped in your OFFHAND slot, you will be given that ring's powers.
+All crafting recipes are composed of seven gold ingots and a mineral block (see Index folder). The recipes are 'shaped', meaning the position at which you place each material matters. Once you craft a ring, you must also craft a knowledge book to learn its unique power (recipe also in Index). If you craft a knowledge book while a ring is equipped in your OFFHAND slot, you will be given that ring's powers.
 
 Ring Powers:
 
