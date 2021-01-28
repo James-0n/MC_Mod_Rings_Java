@@ -1,6 +1,6 @@
 Configuration Instructions:
 
-Download rings-x-1.0.0.jar (the mod) and move/copy to the mods folder of Minecraft */.minecraft/mods*. This defines the rings' crafting recipes, textures, and item qualities, but it does not give them powers. For powers, download RingEffects and move it to the datapack folder of your worldsave */.minecraft/saves/Your World Name Here/datapacks*.
+Download rings-x-1.0.0.jar (the mod) and move/copy to the mods folder of Minecraft */.minecraft/mods*. This defines the rings' crafting recipes, textures, and item qualities, but it does not give them powers. For this, download RingEffects and move it to the datapack folder of your worldsave */.minecraft/saves/Your World Name Here/datapacks*.
 
 Crafting Instructions:
 
@@ -8,7 +8,7 @@ All crafting recipes are composed of seven gold ingots and a mineral block (see 
 
 Ring Powers:
 
-Ruby Ring --> Immunity to fire damage and six extra hearts of health 
+Ruby Ring --> Immunity to fire/lava damage and six extra hearts of health 
 
 Onyx Ring --> Invisibility and night vision
 
@@ -22,7 +22,6 @@ Emerald Ring --> Adds 5 to the luck attribute, makes "Hero of the Village" effec
 
 *Note: All non-boolean effects will stack with any boosts from other items in the game. However, only one ring's powers may be active at a time i.e. learning the power of
 another ring clears the effects of your previous ring.*
- 
 
 
 
