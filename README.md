@@ -12,7 +12,7 @@ Ruby Ring --> Immunity to fire/lava damage and six extra hearts of health
 
 Onyx Ring --> Invisibility and night vision
 
-Sapphire Ring --> Waterbreathing, 400% increased swim speed, better visbility and mining speed while underwater
+Sapphire Ring --> Waterbreathing, 400% increased swim speed, better visibility and mining speed while underwater
 
 Diamond Ring --> 60% boost to movement/mining speed and 30% boost to attack speed
 
